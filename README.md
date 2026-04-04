@@ -1,7 +1,7 @@
 # Cisco-Packet-Tracer-project-07-NAT-Configuration-Lab-Static-Dynamic-NAT-PAT-with-Cisco-2911-Routers
 I’m excited to share my latest Cisco Packet Tracer project – a NAT (Network Address Translation) configuration lab. The topology includes two Cisco 2911 routers, two 2960 switches, two client PCs, and a server.
 
-![image alt](https://github.com/Sameera54321/-Cisco-Packet-Tracer-project-05-Inter-VLAN-Inter-Subnet-Routing-Lab-Server-PCs-Laptops-Two-Switches/blob/main/14.jpg?raw=true)
+![image alt](https://github.com/Sameera54321/Cisco-Packet-Tracer-project-07-NAT-Configuration-Lab-Static-Dynamic-NAT-PAT-with-Cisco-2911-Routers/blob/main/NAT%20Config%20Activity%2001.png?raw=true)
 
 ## 📌 Summary
 
