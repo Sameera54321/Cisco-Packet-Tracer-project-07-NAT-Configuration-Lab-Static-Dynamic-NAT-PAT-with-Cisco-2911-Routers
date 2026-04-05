@@ -74,3 +74,8 @@ Contributions are welcome! To extend this lab:
     Include Wireshark captures showing NAT translation in action.
 
     Open a pull request with a clear description.
+
+## 📜 License
+
+Distributed under the MIT License. See the LICENSE file for more information.
+Free to use, modify, and share for educational purposes.
